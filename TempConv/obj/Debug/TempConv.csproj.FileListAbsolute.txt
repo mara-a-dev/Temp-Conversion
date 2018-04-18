@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\TempConv\TempConv\bin\Debug\TempConv.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\TempConv\TempConv\obj\Debug\TempConv.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\TempConv\TempConv\obj\Debug\TempConv.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\TempConv\TempConv\obj\Debug\TempConv.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\TempConv\TempConv\obj\Debug\TempConv.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\TempConv\TempConv\bin\Debug\TempConv.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\TempConv\TempConv\bin\Debug\TempConv.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\TempConv\TempConv\obj\Debug\TempConv.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\TempConv\TempConv\obj\Debug\TempConv.pdb
